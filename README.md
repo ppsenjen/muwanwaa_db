@@ -61,12 +61,10 @@ The project focused on answering several key business questions:
 4.  **Sales Trends:** *How has overall revenue changed month-over-month?*
     * **Insight:** Observed a consistent growth trend in revenue over the analyzed period, with July of 2013 recording the highest number of revenue.
 
-*(For full SQL queries, refer to [SQL_Queries.sql](SQL_Queries.sql) or [Data_Analysis_Notebook.ipynb](Data_Analysis_Notebook.ipynb))*  
 
 
-<h2>Future Work / Next Steps </h2>
+<h2>Future Work</h2>
 
 * Integrate actual customer contact information (if available) for more robust customer segmentation.
 * Perform cohort analysis to understand customer lifetime value.
-* Implement A/B testing analysis if promotional data becomes available.
 * Build a predictive model for customer churn or sales forecasting.
