@@ -7,7 +7,7 @@ The primary objective is to extract meaningful insights from sales, customer, an
 
 <h2> 3. Data Source / Schema  </h2> 
 Data Source:
-The dataset for this project is a hypothetical `retail_db` database, provided as a MySQL dump (`queryingdata3scripts.sql`). It simulates a basic e-commerce transaction system.
+The dataset for this project is a hypothetical `retail_db` database, provided as(`queryingdata3scripts.sql`). It simulates a basic e-commerce transaction system.
 
 Database Schema Overview:The database consists of the following key tables:
 
